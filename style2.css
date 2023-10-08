@@ -1,0 +1,82 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+#navbar {
+    border: 1px solid black;
+    margin: 0px;
+    padding: 10px;
+    text-align: right;
+    background-color:#031A6B;
+    text-decoration: none;
+}
+
+#navbar #links a{
+
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    font-weight: 600;
+    opacity: .500;
+    transition: 0.3s;
+    background-color: white;
+    
+}
+
+#navbar #logo{
+    
+    text-align: left;
+    border: 5px;
+    border-radius: 100%;
+}
+
+
+
+#links{
+
+    display: inline;
+    text-decoration: none;
+    
+}
+
+#picsss {
+    padding: 20px  ;
+    text-align: center; 
+    
+}
+#picsss #photo{
+    display: inline;
+
+}
+
+#footer{
+
+    border: 1px solid black;
+    margin-top: 400px;
+    padding: 0px;
+    text-align: end;
+    background-color:#031A6B;
+    text-decoration: none;
+    height: 500;
+}
+
+#link{
+    display: inline;
+}
+
+#footer link a{
+        display: inline;
+        
+}
+
+#footer p{
+
+    text-align: left;
+    color: white;
+}
